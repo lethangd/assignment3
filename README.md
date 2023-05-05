@@ -1,7 +1,6 @@
 <!-- Link to website -->
 
-https://github.com/lethangd/assignment3.git
-
+https://lethangd.github.io/assignment3/
 ```
 Assignment 03 Stater
 ├─ css
